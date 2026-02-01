@@ -1,8 +1,8 @@
 # Connect 4
 
-Default port: 8888
-Default address: localhost
-Max clients: 2
+- Default port: 8888
+- Default address: localhost
+- Max clients: 2
 
 ## Instructions
 ### Running it through an IDE (best)
